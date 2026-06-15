@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="line_green">#06C755</color>
+    <color name="line_dark">#1A1A1A</color>
+    <color name="line_gray">#F5F5F5</color>
+    <color name="line_text_primary">#111111</color>
+    <color name="line_text_secondary">#888888</color>
+    <color name="white">#FFFFFF</color>
+    <color name="chat_bubble_me">#06C755</color>
+    <color name="chat_bubble_other">#FFFFFF</color>
+</resources>

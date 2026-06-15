@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "609439711423",
+      "project_id": "atha-private-chat",
+      "storage_bucket": "atha-private-chat.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:609439711423:android:366cf83395d868c394060a",
+          "android_client_info": {
+            "package_name": "com.athalukita.privatechat"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAVP8aWvA5J9Z_DiNcjMXlJw9zIz1ADXUw"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

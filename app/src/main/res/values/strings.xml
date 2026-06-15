@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PrivateChat</string>
+    <string name="hint_message">Ketik pesan…</string>
+    <string name="attach_file">Lampirkan file</string>
+    <string name="send_message">Kirim pesan</string>
+    <string name="start_call">Mulai panggilan</string>
+    <string name="message_image">Gambar pesan</string>
+    <string name="view_once_message">Pesan sekali lihat</string>
+    <string name="tap_to_view">Ketuk untuk melihat</string>
+    <string name="message_deleted">Pesan dihapus</string>
+    <string name="login_title">PrivateChat</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_empty_fields">Email dan password wajib diisi</string>
+    <string name="login_not_whitelisted">Email tidak diizinkan</string>
+    <string name="login_failed">Login gagal</string>
+    <string name="select_chat_first">Pilih obrolan terlebih dahulu</string>
+    <string name="view_once_warning">Pesan ini akan dihapus setelah dilihat</string>
+    <string name="call_calling">Memanggil…</string>
+    <string name="call_incoming">Panggilan masuk…</string>
+    <string name="call_waiting_answer">Menunggu jawaban…</string>
+    <string name="call_connected">Terhubung</string>
+    <string name="call_mic_toggled">Mikrofon diubah</string>
+    <string name="call_camera_toggled">Kamera diubah</string>
+    <string name="toggle_mic">Mic</string>
+    <string name="end_call">Akhiri</string>
+    <string name="toggle_camera">Kamera</string>
+</resources>
